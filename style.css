@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url(bg2.png);
+  }
+  
+  .joke-container {
+    text-align: center;
+    padding: 25px;
+    border: 1px solid #be5957;
+    background-color: #d5bfbb;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  .red{
+    background-color: green;
+  }
+
+  button {
+    background-color: red;
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
